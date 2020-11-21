@@ -10,7 +10,7 @@
         left: 0;
         right: 0;        
         text-align: center;
-        top: 40%; /* Adjust this value to move the positioned div up and down */
+        top: 40%; 
        
         font-family: Arial,sans-serif;
         color: #fff;
